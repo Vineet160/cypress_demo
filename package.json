@@ -1,0 +1,22 @@
+{
+  "name": "cypress_demo",
+  "version": "1.0.0",
+  "description": "Demo project to check the working of cypress.",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vineet160/cypress_demo.git"
+  },
+  "author": "Vineet Revanker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vineet160/cypress_demo/issues"
+  },
+  "homepage": "https://github.com/Vineet160/cypress_demo#readme",
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  }
+}
