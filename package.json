@@ -26,6 +26,7 @@
     "prettier": "2.0.5"
   },
   "dependencies": {
+    "circular-json": "^0.5.9",
     "node": "^14.8.0"
   }
 }

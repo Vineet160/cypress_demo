@@ -1,6 +1,7 @@
 {
     "video": false,
     "reporter": "cypress-multi-reporters",
+    "integrationFolder": "cypress/integration/my_tests",
     "reporterOptions": {
         "reporterEnabled": "mochawesome",
         "mochawesomeReporterOptions": {
